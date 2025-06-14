@@ -10,8 +10,10 @@ H2 <- 0.75
 theta <- pi / 3
 P <- matrix(c(cos(theta), -sin(theta), sin(theta), cos(theta)), nrow = 2)
 
-simulate_fbm <- function(n, H) {
-  cumsum(fracdiff.sim(n, d = H - 0.5)$series)
+simulate_fBm <- function(n, H) {
+  fGn <- simFGN0(n, H)
+  fBm <- cumsum(fGn)
+  return(fBm)
 }
 
 simulate_Y <- function(n, H1, H2, P) {
