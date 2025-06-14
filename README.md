@@ -3,17 +3,17 @@ This project was done as my senior honors thesis in mathematics during my underg
 
 ## Code Descriptions
 
-- Listing 1:
-- Listing 2:
-- Listing 3:
-- Listing 4:
-- Listing 5:
-- Listing 6:
-- Listing 7:
-- Listing 8:
-- Listing 9:
-- Listing 10:
-- Listing 11:
-- Listing 12:
-- Listing 13:
+- Listing 1: Chebyshev's Weak Law of Large Numbers, simulated with a normal and exponential distribution
+- Listing 2: Convergence of the characteristic polynomial roots of the sample covariance matrix to that of the true covariance matrix
+- Listing 3: Eigenvalue repulsion in Wishart matrices, caused by the Vandermonde determinant
+- Listing 4: Asymptotic Gaussianity in low dimensions
+- Listing 5: GOE-like eigenvalue repulsion in low dimensions
+- Listing 6: Marchenko-Pastur Law for the bulk eigenvalue distribution in high dimensions
+- Listing 7: Tracy-Widom Law for the top eigenvalue distribution in high dimensions
+- Listing 8: Fractional Brownian motion paths for varying Hurst parameter values, resulting in long-range rependence and anti-persistence
+- Listing 9: Estimation of the scaling exponent for the diagonal entries and eigenvalues of the multiscale sample covariance matrix, simulated via log-log regression
+- Listing 10: Gaussian and GOE-like eigenvalue asymptotics for the multiscale sample covariance matrix, pre phase transition
+- Listing 11: Non-Gaussian eigenvalue asymptotics for the multiscale sample covariance matrix, post phase transition
+- Listing 12: Estimation of the best-fit beta value for modeling eigenvalue spacing in post phase transition
+- Listing 13: Confirmation of the optimal beta value for modeling eigenvalue spacing in post phase transition
   
